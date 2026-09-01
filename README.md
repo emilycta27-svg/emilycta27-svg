@@ -1,3 +1,4 @@
+<img src="./banner.png" width="100%">
 # DarkByte
 
 Desenvolvedora em formação | Web & Software  
