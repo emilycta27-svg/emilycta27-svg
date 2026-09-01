@@ -82,8 +82,7 @@ Meu objetivo é continuar evoluindo como desenvolvedora, construir projetos cada
 ---
 
 *GitHub*
-
-<img src="https://github-readme-stats.vercel.app/api?username=emilycta27&show_icons=true&theme=dark&hide_border=true&title_color=A855F7&icon_color=A855F7">
+<img src="https://github-readme-stats.vercel.app/api?username=emilycta27&show_icons=true&theme=dark">
 
 ---
 
