@@ -81,11 +81,6 @@ Meu objetivo é continuar evoluindo como desenvolvedora, construir projetos cada
 
 ---
 
-*GitHub*
-<img src="https://github-readme-stats.vercel.app/api?username=emilycta27&show_icons=true&theme=dark">
-
----
-
 *Contato*
 
 Email: emilycta27@gmail.com  
