@@ -71,7 +71,7 @@ Desenvolvimento de diferentes interfaces e sites para praticar e aprimorar conhe
 - Banco de Dados
 - GitHub
 - Desenvolvimento de Software
-- Cyber Security
+- Cybersecurity
 
 ---
 
@@ -83,7 +83,7 @@ Meu objetivo é continuar evoluindo como desenvolvedora, construir projetos cada
 
 *GitHub*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emilycta27-svg&show_icons=true&theme=dark&hide_border=true&title_color=A855F7&icon_color=A855F7)
+<img src="https://github-readme-stats.vercel.app/api?username=emilycta27&show_icons=true&theme=dark&hide_border=true&title_color=A855F7&icon_color=A855F7">
 
 ---
 
